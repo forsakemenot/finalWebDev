@@ -1,0 +1,52 @@
+[
+    {
+      "CleverMath_@Home": {
+        "Title": "CleverMath @Home",
+        "ProjectURL": "https://nextgen-education.com/cm-at-home/",
+        "Description": "A website to find a tutor that meets your needs. And book class time easily",
+        "img": "./IMG/works/@Home.png"
+      },
+      "CleverMath_Management_System": {
+        "Title": "CleverMath Management System",
+        "ProjectURL": "https://nextgen-education.com/",
+        "Description": "CleverMath Admin panel for teacher to mornitoring user's activity",
+        "img": "./IMG/works/Clever.png"
+      },
+      "Go_Thailand": {
+        "Title": "Go Thailand",
+        "ProjectURL": "https://entrythailand.go.th/journey/1",
+        "Description": "Certificate of entry And bookings at AQS hotels Website ",
+        "img": "./IMG/works/GoThailand.png"
+      },
+      "Bangbow": {
+        "Title": "Bangbow",
+        "ProjectURL": "https://www.facebook.com/bangbowdotcom/",
+        "Description": "Retail Store Goods Re-Stock Application",
+        "img": "./IMG/works/Bangbow.png"
+      },
+      "Bangbow_Backend": {
+        "Title": "Bangbow Backend",
+        "ProjectURL": "-- ON WORKING --",
+        "Description": "Employee Salary Management Website",
+        "img": "./IMG/works/Bangbow_Admin.png"
+      },
+      "CPDThai.com": {
+        "Title": "CPDThai.com",
+        "ProjectURL": "-- ON WORKING --",
+        "Description": "CPD Online Course Learning Website and Application",
+        "img": "./IMG/works/CPD.png"
+      },
+      "About_Icehockey_Thailand": {
+        "Title": "https://www.abouticehockeythailand.com/",
+        "ProjectURL": "-- ON WORKING --",
+        "Description": "Hockey news and events Website",
+        "img": "./IMG/works/AboutIceHocky.png"
+      },
+      "Suniselection": {
+        "Title": "https://www.suniselection.com/",
+        "ProjectURL": "-- ON WORKING --",
+        "Description": "Ecommerce based on Wordpress",
+        "img": "./IMG/works/Suniselection.png"
+      }
+    }
+  ]
