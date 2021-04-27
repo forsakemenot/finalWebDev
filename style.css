@@ -37,7 +37,6 @@ body {
 .company_img{
     width: 20vw;
     height: auto;
-    
 }
 .content_img{
     width: 10vw;
@@ -134,35 +133,14 @@ align-items: center;
         border-radius: 10px;
     }
 
+
 }
 
 
-
-.exp_img{
-    width: auto;
-    height: 50vw;
-}
-.contact_img{
-    width: 2vw;
-    height: 2vw;
-}
-.contact_img_nav{
-    width: 1.2vw;
-    height: 1.2vw;
-}
-
-
-
-.c-topic{
-    color: #692CFF
-}
-
-#logo{
-    width: 20vw;
-}
 
 
 @media (max-width: 576px){
+
     .profile_img{
         width: 50vw;
         height: auto;
@@ -192,9 +170,6 @@ align-items: center;
         width: 10vw;
         height: 10vw;
     }
-    #kl_img{
-        width: 70vw;
-    }
     .company_div{
         display: flex;
         flex-direction: column;
@@ -204,6 +179,11 @@ align-items: center;
     .contact_img{
         width: 10vw !important;
         height: 10vw !important;
+    }
+    .company_img{
+        width: 40vw;
+        height: auto;
+        margin-right: 2vw;
     }
     
 }
@@ -286,6 +266,28 @@ align-items: center;
 
 }
 
+
+.exp_img{
+    width: auto;
+    height: 50vw;
+}
+.contact_img{
+    width: 2vw;
+    height: 2vw;
+}
+.contact_img_nav{
+    width: 1.2vw;
+    height: 1.2vw;
+}
+
+
+.c-topic{
+    color: #692CFF
+}
+
+#logo{
+    width: 20vw;
+}
 
 
 
