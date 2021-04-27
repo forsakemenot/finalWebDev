@@ -8,6 +8,7 @@ body {
     font-weight: bold;
     color: rgb(255, 255, 255);
     text-shadow: 2px 2px 8px #777777;
+    text-align: center;
 }
 .profile_img{
     width: 15vw;
